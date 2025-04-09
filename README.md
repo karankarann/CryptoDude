@@ -48,9 +48,10 @@ Crypto Dude is a GenAI-based trading chatbot that gives you real-time insights o
    - CoinGecko (optional – free tier works without a key)
   
 4. Run the App
-  streamlit run app.py
+   ```bash
+   streamlit run app.py
 
-5. Start chatting Ask questions like:
+6. Start chatting Ask questions like:
   - "What’s the price of Bitcoin?"
   - "Get me the RSI for ETH"
   - "Any news on the US Dollar?"
