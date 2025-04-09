@@ -1,9 +1,8 @@
-# CryptoDude
-Crypto Dude is a real-time, AI-powered trading assistant for crypto and forex markets. Built with GPT-4, LangChain, and Streamlit, it answers market questions, fetches live data, computes indicators like RSI, and summarizes news — all in natural language. Designed for traders, researchers, and finance enthusiasts. Not financial advice 🚀.
-
 # 🤖 Crypto Dude – Your AI-Powered Trading Assistant
 
 Crypto Dude is a GenAI-based trading chatbot that gives you real-time insights on cryptocurrencies and forex markets using natural language. Ask it about live prices, technical indicators like RSI, or even the latest news — and it responds with intelligent, contextual answers.
+
+Crypto Dude is a real-time, AI-powered trading assistant for crypto and forex markets. Built with GPT-4, LangChain, and Streamlit, it answers market questions, fetches live data, computes indicators like RSI, and summarizes news — all in natural language. Designed for traders, researchers, and finance enthusiasts. Not financial advice 🚀.
 
 ![Crypto Dude Screenshot](screenshot.png) <!-- Optional: Add a screenshot later -->
 
